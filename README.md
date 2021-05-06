@@ -1,14 +1,17 @@
 # Envirocontrol
-1. What was your goal for this deliverable, as defined on your Learning Plan? My goal was to completely understand what databases were and hey they worked, alongside how to set them up in a way to store data.
+1. What was your goal for this deliverable, as defined on your Learning Plan?
+My goal was to completely understand what databases were and hey they worked, alongside how to set them up in a way to store data.
 
-2. Did you meet this goal? If not, why? I did meet this goal
+2. Did you meet this goal? If not, why?
+I did meet this goal
 
-3. What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)? next I need to learn how to design a user interface using code and not just designing it by hand.
+3. What needs to happen for you to stay on schedule from this point forward (e.g., change of plan, putting in extra time, getting help, etc.)?
+next I need to learn how to design a user interface using code and not just designing it by hand.
 
-4. Paste your current, accurate learning plan below. 
+4. Paste your current, accurate learning plan below.
 
 Date|semester Milestone|Project Milestone
-------------------------------------------
+----|------------------|------------------
 Sun 02 21|Deliverable 1: new learning|What is home automation What are the components required to have a fully functioning home automation system
 Sun 03-07|Deliverable 2: new learning|Learn what a database is: How it functions and what’s required to make it run smoothly. Learn how to set one up
 Sun 03-28|Deliverable 3: project foundation or new learning|How to design an intuitive user interface that is easy to use.Learn how to set up a signup/login window to allow access to different users.
